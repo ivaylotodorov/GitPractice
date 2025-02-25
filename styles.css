@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: darkgrey; /* Changed from #333 */
+}
+
+p {
+    color: dimgray; /* Changed from #555 */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: darkgreen; /* Added background color */
+    border: none;
+    color: white; /* Added text color */
+}
